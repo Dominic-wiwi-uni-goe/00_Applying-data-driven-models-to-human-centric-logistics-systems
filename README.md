@@ -12,7 +12,7 @@ In this seminar, students will work on real-life datasets from a German grocery 
 - Apply various quantitative models, e.g., OLS regression, panel regression, multilevel regression (Matusiak et al., 2017), accelerated failure time model (Batt & Gallino, 2019), or Data Envelopment Analysis (Loske & Klumpp, 2020a) to the dataset. 
 - Derive, interpret, and prepare results for further presentation. (6) Evaluate and quantify human factors in logistics systems.
 
-#### Further reading:
+### Further reading:
 
 Appliaction of parametric models:
 - https://scholar.google.de/citations?view_op=view_citation&hl=de&user=y389d0YAAAAJ&sortby=pubdate&citation_for_view=y389d0YAAAAJ:kNdYIx-mwKoC

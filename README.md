@@ -17,17 +17,22 @@ In this seminar, students will work on real-life datasets from a German grocery 
 
 **27.04.2022 (17:00-19:00, Oeconomicum - 1.165)**
 - Opening session with general aspects of the module.
-- Virtual chapter 3: Data-transformation.
-- Virtual chapter 4:Multivariate-regression-and-multilevel-models.
+- Virtual chapter 3: Data transformation.
+- Virtual chapter 4: Multivariate regression and multilevel models.
 
 **25.05.2022 (16:00-19:00, Online)**
-- Virtual chapter 6: Accelerated-failure-time-model
-- Virtual chapter 7: Data-Envelopment-Analysis 
+- Virtual chapter 6: Accelerated failure time model
+- Virtual chapter 7: Data Envelopment Analysis 
 - Topics for presentations
 - Q&A
 
 **13.07.2022 (15:00-19:00, Waldweg 26, Altbau - PIZ 4484 - 3.113)**
 - Presentations of seminar assignment
+
+**Additional material**
+- Virtual chapter 1: Applying data driven models to human centric logistics systems
+- Virtual chapter 2: Basics in R for the seminar 
+- Virtual chapter 5: Assignment problem
 
 ## Further reading:
 

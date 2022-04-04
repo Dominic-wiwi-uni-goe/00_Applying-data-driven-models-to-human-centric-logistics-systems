@@ -13,6 +13,22 @@ In this seminar, students will work on real-life datasets from a German grocery 
 - Apply various quantitative models, e.g., OLS regression, panel regression, multilevel regression (Matusiak et al., 2017), accelerated failure time model (Batt & Gallino, 2019), or Data Envelopment Analysis (Loske & Klumpp, 2020a) to the dataset. 
 - Derive, interpret, and prepare results for further presentation. (6) Evaluate and quantify human factors in logistics systems.
 
+## Timeline:
+
+**27.04.2022 (17:00-19:00, Oeconomicum - 1.165)**
+- Opening session with general aspects of the module.
+- Virtual chapter 3: Data-transformation.
+- Virtual chapter 4:Multivariate-regression-and-multilevel-models.
+
+**25.05.2022 (16:00-19:00, Online)**
+- Virtual chapter 6: Accelerated-failure-time-model
+- Virtual chapter 7: Data-Envelopment-Analysis 
+- Topics for presentations
+- Q&A
+
+**13.07.2022 (15:00-19:00, Waldweg 26, Altbau - PIZ 4484 - 3.113)**
+- Presentations of seminar assignment
+
 ## Further reading:
 
 Appliaction of parametric models:

@@ -28,8 +28,8 @@ Registration is compulsory and required via Stud.IP. The registration is only co
 
 ### 5. Literature
 -  Ban, G.-Y., and Rudin, C. 2019. “The Big Data Newsvendor: Practical Insights from Machine Learning,” Operations Research (67:1), pp. 90-108. https://doi 10.1287/opre.2018.1757
--  Batt, R. J., & Gallino, S. (2019). Finding a Needle in a Haystack: The Effects of Searching and Learning on Pick-Worker Performance. Management Science, 65(6), 2624–2645.  https://doi 10.1287/mnsc.2018.3059
+-  Batt, R. J., & Gallino, S. (2019). Finding a Needle in a Haystack: The Effects of Searching and Learning on Pick-Worker Performance. Management Science, 65(6), 2624–2645.  https://doi10.1287/mnsc.2018.3059
 -  Boone, T., Ganeshan, R., Jain, A., & Sanders, N. R. (2019). Forecasting sales in the supply chain: Consumer analytics in the big data era. International Journal of Forecasting, 35(1), 170–180. https://doi.org/10.1016/j.ijforecast.2018.09.003
 -  Choi, T.‑M., Wallace, S. W., & Wang, Y. (2018). Big Data Analytics in Operations Management. Production and Operations Management, 27(10), 1868–1883. https://doi.org/10.1111/poms.12838
--  Matusiak, M., de Koster, R. B. M., & Saarinen, J. (2017). Utilizing individual picker skills to improve order batching in a warehouse. European Journal of Operational Research, 263(3), 888–899.  https://doi 10.1016/j.ejor.2017.05.002
+-  Matusiak, M., de Koster, R. B. M., & Saarinen, J. (2017). Utilizing individual picker skills to improve order batching in a warehouse. European Journal of Operational Research, 263(3), 888–899.  https://doi10.1016/j.ejor.2017.05.002
 -  Loske, D., & Klumpp, M. (2021). Human-AI collaboration in route planning: An empirical efficiency-based analysis in retail logistics. International Journal of Production Economics, 241, https://doi.org/10.1016/j.ijpe.2021.108236

@@ -7,21 +7,21 @@ Big data analytics is critical in modern operations and supply chain management 
 
 Motiveded by the gap of a need for data-driven apllied big data analytics and qualified experts, we seek to offer applied big data analytics in retail logistics. In this module, we first explore the existing big data-related analytics techniques, and identify their strengths, weaknesses as well as major functionalities. We then discuss various big data analytics strategies to overcome the respective computational and data challenges. We will work with R studio and real-world datasets (approxmately 1.5 Mio. observation points) from a German grocery retailer to get familiar with structured real-life data. At the end of the seminar, the students should be able to:
 
-•	Understand structured real-live data from warehouse management and route planning systems, capturing humans’ work performance at a very detailed level.
-•	Filter relevant parts of these datasets for data-driven evaluations and efficiency measurement.
-•	Develop data cleaning rules in cooperation with a company expert and apply these rules to the dataset.
-•	Apply various quantitative models, e.g., OLS regression, panel regression, multilevel regression (Matusiak et al., 2017), accelerated failure time model (Batt & Gallino, 2019), or Data Envelopment Analysis (Loske & Klumpp, 2021) to the dataset.
-•	Derive, interpret, and prepare results for further presentation.
-•	Evaluate and quantify human factors in logistics systems.
+- Understand structured real-live data from warehouse management and route planning systems, capturing humans’ work performance at a very detailed level.
+- Filter relevant parts of these datasets for data-driven evaluations and efficiency measurement.
+- Develop data cleaning rules in cooperation with a company expert and apply these rules to the dataset.
+- Apply various quantitative models, e.g., OLS regression, panel regression, multilevel regression (Matusiak et al., 2017), accelerated failure time model (Batt & Gallino, 2019), or Data Envelopment Analysis (Loske & Klumpp, 2021) to the dataset.
+- Derive, interpret, and prepare results for further presentation.
+- Evaluate and quantify human factors in logistics systems.
 
 ### 2. Schedule and target group
 The seminar is targeted at Master students of the Faculty of Business and Economics. The seminar will be in English. Three compulsory block seminars are being held as follow:
-•	Wed 26.10.2022: 13-16 h
-•	Tue 29.11.2022: 8-18 h
-•	Wed 08.02.2023: 14-18 h
+- Wed 26.10.2022: 13-16 h
+- Tue 29.11.2022: 8-18 h
+- Wed 08.02.2023: 14-18 h
 
 ### 3. Deadlines for Seminar Paper
-not yet determined
+Not yet determined.
 
 ### 4. Registration and organization
 Registration is compulsory and required via Stud.IP. The registration is only complete if you attend the introductory session. The total number of participants in this seminar is limited to 12 students. If more than 12 students attend the Kick-Off session, seminar slots are allocated according to first come, first serve (regarding registration time in StudIP). One project will be worked out by one group of four students.

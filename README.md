@@ -1,56 +1,35 @@
 # Chapter 1 - The module
-## Applying-data-driven-models-to-human-centric-logistics-systems
+## Aktuelle Ansätze in der Produktion und Logistik: Big Data Analytics in Retail Logistics [M.WIWI-BWL.0028]
 
-Despite the ubiquitous relevance of technologies, the core processes in stationary retail logistics mainly rely on manual work. This includes manual order picking in picker-to-parts order picking systems for warehousing operations (Boysen et al., 2021), manual truck loading, truck driving (Loske & Klumpp, 2020b), route planning in transport operations (Holzapfel et al., 2016), or manual shelf replenishment and online order picking for in-store operations (Reiner et al., 2013). For warehouse operations, recent figures indicate that 80% of all orders are processed in manual picker-to-parts setups (Boysen et al., 2021). Thus, order picking remains labor-intensive, comprising more than 50% of warehouse operating costs (de Koster et al., 2007). The shortage of professional truck drivers is underlining the importance of efficiently deploying the human workforce in transportation. Therefore, the performance evaluation of logistics systems is highly relevant for logistics companies.
+### 1. Background and Learning Objectives
 
-At the same time, warehouse management and route planning systems store extensive log data that capture manual operations at a very detailed level. Understanding these datasets, filtering relevant parts, and applying quantitative methods for performance evaluation is essential for creating business value and competitive advantage. However, companies often lack adequate data-driven models and quantitative evaluation approaches.
+Big data analytics is critical in modern operations and supply chain management (OM/SCM). OM/SCM is commonly known as a discipline which employs scientifically sound analytical methods to help make (near-) optimal decisions for organizations. Solving OM/SCM problems is inherently related to the use of data and computing algorithms based on statistical and mathematical models are needed. In the big data era, new challenges emerge regarding the computing requirements and strategies to conduct OM/SCM analysis. In particular, we observe that more and more companies and organizations seek to employ big data-related technologies. However, qualified experts conducting these analyses remain scarc.
 
-In this seminar, students will work on real-life datasets from a German grocery retailer to get familiar with structured real-life data. At the end of the seminar, the students should be able to:
+Motiveded by the gap of a need for data-driven apllied big data analytics and qualified experts, we seek to offer applied big data analytics in retail logistics. In this module, we first explore the existing big data-related analytics techniques, and identify their strengths, weaknesses as well as major functionalities. We then discuss various big data analytics strategies to overcome the respective computational and data challenges. We will work with R studio and real-world datasets (approxmately 1.5 Mio. observation points) from a German grocery retailer to get familiar with structured real-life data. At the end of the seminar, the students should be able to:
 
-- Understand structured real-live data from warehouse management and route planning systems, capturing humans’ work performance at a very detailed level. 
-- Filter relevant parts of these datasets for data-driven evaluations and efficiency measurement. 
-- Develop data cleaning rules in cooperation with a company expert and apply these rules to the dataset. 
-- Apply various quantitative models, e.g., OLS regression, panel regression, multilevel regression (Matusiak et al., 2017), accelerated failure time model (Batt & Gallino, 2019), or Data Envelopment Analysis (Loske & Klumpp, 2020a) to the dataset. 
-- Derive, interpret, and prepare results for further presentation. (6) Evaluate and quantify human factors in logistics systems.
+•	Understand structured real-live data from warehouse management and route planning systems, capturing humans’ work performance at a very detailed level.
+•	Filter relevant parts of these datasets for data-driven evaluations and efficiency measurement.
+•	Develop data cleaning rules in cooperation with a company expert and apply these rules to the dataset.
+•	Apply various quantitative models, e.g., OLS regression, panel regression, multilevel regression (Matusiak et al., 2017), accelerated failure time model (Batt & Gallino, 2019), or Data Envelopment Analysis (Loske & Klumpp, 2021) to the dataset.
+•	Derive, interpret, and prepare results for further presentation.
+•	Evaluate and quantify human factors in logistics systems.
 
-## Timeline:
+### 2. Schedule and target group
+The seminar is targeted at Master students of the Faculty of Business and Economics. The seminar will be in English. Three compulsory block seminars are being held as follow:
+•	Wed 26.10.2022: 13-16 h
+•	Tue 29.11.2022: 8-18 h
+•	Wed 08.02.2023: 14-18 h
 
-**27.04.2022 (17:00-19:00, Oeconomicum - 1.165)**
-- Opening session with general aspects of the module.
-- Virtual chapter 3: Data transformation.
-- Virtual chapter 4: Multivariate regression and multilevel models.
+### 3. Deadlines for Seminar Paper
+not yet determined
 
-**25.05.2022 (16:00-19:00, Online)**
-- Virtual chapter 6: Accelerated failure time model
-- Virtual chapter 7: Data Envelopment Analysis 
-- Topics for presentations
-- Q&A
+### 4. Registration and organization
+Registration is compulsory and required via Stud.IP. The registration is only complete if you attend the introductory session. The total number of participants in this seminar is limited to 12 students. If more than 12 students attend the Kick-Off session, seminar slots are allocated according to first come, first serve (regarding registration time in StudIP). One project will be worked out by one group of four students.
 
-**13.07.2022 (15:00-19:00, Waldweg 26, Altbau - PIZ 4484 - 3.113)**
-- Presentations of seminar assignment
-
-**Additional material**
-- Virtual chapter 1: Applying data driven models to human centric logistics systems
-- Virtual chapter 2: Basics in R for the seminar 
-- Virtual chapter 5: Assignment problem
-
-## Further reading:
-
-Appliaction of parametric models:
-- https://scholar.google.de/citations?view_op=view_citation&hl=de&user=y389d0YAAAAJ&sortby=pubdate&citation_for_view=y389d0YAAAAJ:kNdYIx-mwKoC
-- https://scholar.google.de/citations?view_op=view_citation&hl=de&user=y389d0YAAAAJ&sortby=pubdate&citation_for_view=y389d0YAAAAJ:3fE2CSJIrl8C
-- https://scholar.google.de/citations?view_op=view_citation&hl=de&user=y389d0YAAAAJ&sortby=pubdate&citation_for_view=y389d0YAAAAJ:Se3iqnhoufwC
-
-Appliaction of non-parametric models:
-- https://scholar.google.de/citations?view_op=view_citation&hl=de&user=y389d0YAAAAJ&sortby=pubdate&citation_for_view=y389d0YAAAAJ:3fE2CSJIrl8C
-- https://scholar.google.de/citations?view_op=view_citation&hl=de&user=y389d0YAAAAJ&sortby=pubdate&citation_for_view=y389d0YAAAAJ:0EnyYjriUFMC
-- https://scholar.google.de/citations?view_op=view_citation&hl=de&user=y389d0YAAAAJ&sortby=pubdate&citation_for_view=y389d0YAAAAJ:LkGwnXOMwfcC
-- https://scholar.google.de/citations?view_op=view_citation&hl=de&user=y389d0YAAAAJ&sortby=pubdate&citation_for_view=y389d0YAAAAJ:W7OEmFMy1HYC
-- https://scholar.google.de/citations?view_op=view_citation&hl=de&user=y389d0YAAAAJ&sortby=pubdate&citation_for_view=y389d0YAAAAJ:eQOLeE2rZwMC
-- https://scholar.google.de/citations?view_op=view_citation&hl=de&user=y389d0YAAAAJ&sortby=pubdate&citation_for_view=y389d0YAAAAJ:WF5omc3nYNoC
-- https://scholar.google.de/citations?view_op=view_citation&hl=de&user=y389d0YAAAAJ&sortby=pubdate&citation_for_view=y389d0YAAAAJ:YsMSGLbcyi4C
-
-Appliaction of simulation and optimization approaches:
-- https://scholar.google.de/citations?view_op=view_citation&hl=de&user=y389d0YAAAAJ&sortby=pubdate&citation_for_view=y389d0YAAAAJ:hqOjcs7Dif8C
-- https://scholar.google.de/citations?view_op=view_citation&hl=de&user=y389d0YAAAAJ&sortby=pubdate&citation_for_view=y389d0YAAAAJ:UebtZRa9Y70C
-- https://scholar.google.de/citations?view_op=view_citation&hl=de&user=y389d0YAAAAJ&sortby=pubdate&citation_for_view=y389d0YAAAAJ:roLk4NBRz8UC
+### 5. Literature
+Ban, G.-Y., and Rudin, C. 2019. “The Big Data Newsvendor: Practical Insights from Machine Learning,” Operations Research (67:1), pp. 90-108. https://doi 10.1287/opre.2018.1757
+Batt, R. J., & Gallino, S. (2019). Finding a Needle in a Haystack: The Effects of Searching and Learning on Pick-Worker Performance. Management Science, 65(6), 2624–2645.  https://doi 10.1287/mnsc.2018.3059
+Boone, T., Ganeshan, R., Jain, A., & Sanders, N. R. (2019). Forecasting sales in the supply chain: Consumer analytics in the big data era. International Journal of Forecasting, 35(1), 170–180. https://doi.org/10.1016/j.ijforecast.2018.09.003
+Choi, T.‑M., Wallace, S. W., & Wang, Y. (2018). Big Data Analytics in Operations Management. Production and Operations Management, 27(10), 1868–1883. https://doi.org/10.1111/poms.12838
+Matusiak, M., de Koster, R. B. M., & Saarinen, J. (2017). Utilizing individual picker skills to improve order batching in a warehouse. European Journal of Operational Research, 263(3), 888–899.  https://doi 10.1016/j.ejor.2017.05.002
+Loske, D., & Klumpp, M. (2021). Human-AI collaboration in route planning: An empirical efficiency-based analysis in retail logistics. International Journal of Production Economics, 241, https://doi.org/10.1016/j.ijpe.2021.108236

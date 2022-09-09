@@ -1,5 +1,5 @@
-# Chapter 1 - The module
-## Aktuelle Ansätze in der Produktion und Logistik: Big Data Analytics in Retail Logistics [M.WIWI-BWL.0028]
+# Chapter 1 - Aktuelle Ansätze in der Produktion und Logistik
+## Big Data Analytics in Retail Logistics [M.WIWI-BWL.0028]
 
 ### 1. Background and Learning Objectives
 
